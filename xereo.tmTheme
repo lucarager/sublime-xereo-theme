@@ -14,13 +14,13 @@
                 <key>caret</key>
                 <string>#f8f8f0</string>
                 <key>foreground</key>
-                <string>#f0f0f0</string>
+                <string>#eee</string>
                 <key>invisibles</key>
                 <string>#3b3a32</string>
                 <key>lineHighlight</key>
                 <string>#333333</string>
                 <key>selection</key>
-                <string>#ff7e56</string>
+                <string>#333</string>
                 <key>selectionForeground</key>
                 <string>#ffffff</string>
                 <key>findHighlight</key>
@@ -33,7 +33,7 @@
                 <string>#9d550fb0</string>
 
                 <key>bracketsForeground</key>
-                <string>#ff7e56</string>
+                <string>#ff6c3e</string>
                 <key>bracketsOptions</key>
                 <string>underline</string>
 
@@ -121,7 +121,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#3276bc</string>
+                <string>#7B98B5</string>
             </dict>
         </dict>
         <dict>
@@ -144,10 +144,8 @@
             <string>storage.type</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string />
                 <key>foreground</key>
-                <string>#ff7e56</string>
+                <string>#ff6c3e</string>
             </dict>
         </dict>
         <dict>
@@ -184,7 +182,7 @@
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
-                <string />
+                <string>italic</string>
                 <key>foreground</key>
                 <string>#56c9ff</string>
             </dict>
@@ -212,7 +210,7 @@
                 <key>fontStyle</key>
                 <string />
                 <key>foreground</key>
-                <string>#ff7e56</string>
+                <string>#ff6c3e</string>
             </dict>
         </dict>
         <dict>
@@ -238,7 +236,7 @@
                 <key>fontStyle</key>
                 <string />
                 <key>foreground</key>
-                <string>#ff7e56</string>
+                <string>#ff6c3e</string>
             </dict>
         </dict>
         <dict>
@@ -440,6 +438,19 @@
             </dict>
         </dict>
         <dict>
+           <key>name</key>
+           <string>Super this (JavaScript)</string>
+           <key>scope</key>
+           <string>source.js variable.language.js</string>
+           <key>settings</key>
+           <dict>
+              <key>fontStyle</key>
+              <string>bold</string>
+              <key>foreground</key>
+              <string>#56c9ff</string>
+           </dict>
+        </dict>
+        <dict>
             <key>name</key>
             <string>Function argument</string>
             <key>scope</key>
@@ -447,7 +458,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#ff7e56</string>
+                <string>#ff6c3e</string>
             </dict>
         </dict>
         <dict>
@@ -571,7 +582,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#ff7e56</string>
+                <string>#ff6c3e</string>
                 <key>fontStyle</key>
                 <string>italic</string>
             </dict>
@@ -585,7 +596,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#ff7e56</string>
+                <string>#ff6c3e</string>
             </dict>
         </dict>
 
@@ -666,10 +677,10 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#56c9ff</string>
+                <string>#ff6c3e</string>
             </dict>
         </dict>
-    <dict>
+        <dict>
             <key>name</key>
             <string>SublimeLinter Warning</string>
             <key>scope</key>
